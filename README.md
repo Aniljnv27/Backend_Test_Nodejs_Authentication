@@ -1,10 +1,9 @@
 # NodeJS Authentication App
 > A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 
-## Web App Link
-http://serene-headland-22338.herokuapp.com/
 
-![Screenshot (4)](https://drive.google.com/drive/folders/10bproYrHJE-W41P_8_1jhsCuURJfvAsW)
+
+![Screenshot ](https://drive.google.com/drive/folders/10bproYrHJE-W41P_8_1jhsCuURJfvAsW)
 
 ## Technologies Used
 1.  NodeJS
