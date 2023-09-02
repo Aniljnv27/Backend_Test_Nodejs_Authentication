@@ -30,7 +30,7 @@ http://serene-headland-22338.herokuapp.com/
 
 ##### Into the project directory
 
-`cd nodejs-auth`
+`cd Backend_Test_Nodejs_Authentication`
 
 ##### Installing NPM dependencies
 
